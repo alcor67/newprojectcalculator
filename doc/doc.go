@@ -1,6 +1,6 @@
-// projectcalculator project doc.go
+// newprojectcalculator project doc.go
 /*
-projectcalculator document
+newprojectcalculator document
 Функция Calc принимает на вход строковый операнд "op" и два операнда x и y
 в формате float64.
 Cтроковый операнд означает:
