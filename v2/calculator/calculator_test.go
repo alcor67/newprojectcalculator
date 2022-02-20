@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/alcor67/newprojectcalculator/calculator"
+	"github.com/alcor67/newprojectcalculator/v2/calculator"
 	"github.com/stretchr/testify/assert"
 )
 

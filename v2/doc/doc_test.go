@@ -3,7 +3,7 @@ package doc
 import (
 	"fmt"
 
-	"github.com/alcor67/newprojectcalculator/calculator"
+	"github.com/alcor67/newprojectcalculator/v2/calculator"
 )
 
 func Example() {
