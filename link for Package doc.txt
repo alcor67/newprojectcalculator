@@ -1,2 +1,0 @@
-http://127.0.0.1:6060/pkg/github.com/alcor67/newprojectcalculator/doc/
-http://127.0.0.1:6060/src/github.com/alcor67/newprojectcalculator/
